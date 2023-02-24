@@ -1,6 +1,3 @@
-// import logo from './logo.svg';
-// import './App.css';
-
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import HomeScreen from './screens/HomeScreen.js';
 import ProductScreen from './screens/ProductScreen.js';
