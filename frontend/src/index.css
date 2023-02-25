@@ -12,7 +12,7 @@ code {
     monospace;
 }
 
-header {
+/* header {
   background-color: #505050;
   padding: 1rem;
 }
@@ -21,7 +21,7 @@ header a {
   color: #ffffff;
   text-decoration: none;
   font-weight: bold;
-}
+} */
 
 .products {
   display: flex;
@@ -38,9 +38,13 @@ header a {
 }
 
 main {
-  padding: 1rem;
+  /* padding: 1rem; */
+  flex: 1;
 }
 
 .product-info {
   padding: 1rem;
+}
+.site-container {
+  min-height: 100vh;
 }
