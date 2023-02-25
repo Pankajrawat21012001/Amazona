@@ -8,11 +8,11 @@ function Product(props) {
 
   return (
     <Card>
-      <Link to={`/product/${product.slug}`}>
-        <img src={product.images} className="card-img-top" alt={product.name} />
+      <Link to={`/products/${product.slug}`}>
+        <img src={product.image} className="card-img-top" alt={product.name} />
       </Link>
       <Card.Body>
-        <Link to={`/product/${product.slug}`}>
+        <Link to={`/products/${product.slug}`}>
           <Card.Title>{product.name}</Card.Title>
         </Link>
         <Rating rating={product.rating} numReviews={product.numReviews} />

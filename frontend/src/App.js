@@ -20,7 +20,7 @@ function App() {
           </Navbar>
           {/* <Link href="/">Amazona</Link> */}
         </header>
-        <main>
+        <main className="mt-5">
           <Container>
             <Routes>
               <Route path="/" element={<HomeScreen />}></Route>
