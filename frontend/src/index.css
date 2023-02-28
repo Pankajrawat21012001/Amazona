@@ -28,6 +28,9 @@ header a {
   flex-wrap: wrap;
   justify-content: center;
 }
+.homepageCard {
+  margin-bottom: 3rem;
+}
 .product {
   border: 1px solid #404040;
   margin: 1rem;

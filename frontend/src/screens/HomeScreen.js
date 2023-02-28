@@ -52,7 +52,7 @@ function HomeScreen(params) {
       <Helmet>
         <title>Amazona</title>
       </Helmet>
-      <h1>Featured Products</h1>
+      <h1 className="text-center mb-5">Featured Products</h1>
       <div className="products">
         {loading ? (
           <LoadingBox />
