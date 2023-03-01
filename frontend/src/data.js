@@ -1,7 +1,7 @@
 const data = {
   products: [
     {
-      _id: 1,
+      //_id: 1,
       name: 'Nike Slim shirt',
       slug: 'nike-slim-shirt',
       category: 'Shirts',
@@ -14,7 +14,7 @@ const data = {
       description: 'High quality shirt for men',
     },
     {
-      _id: 2,
+      //_id: 2,
       name: 'Adidas Fit shirt',
       slug: 'adidas-fit-shirt',
       category: 'Shirts',
@@ -27,7 +27,7 @@ const data = {
       description: 'High quality shirt for men',
     },
     {
-      _id: 3,
+      //_id: 3,
       name: 'Nike Slim Pant',
       slug: 'nike-slim-pant',
       category: 'Pants',
@@ -40,7 +40,7 @@ const data = {
       description: 'High quality pant for men',
     },
     {
-      _id: 4,
+      //_id: 4,
       name: 'Adidas Fit Pant',
       slug: 'adidas-fit-pant',
       category: 'Pants',
@@ -53,7 +53,7 @@ const data = {
       description: 'High quality pant for men',
     },
     {
-      _id: 5,
+      //_id: 5,
       name: 'JBL Headphone',
       slug: 'jbl-headphone',
       category: 'Headphone',
@@ -66,7 +66,7 @@ const data = {
       description: 'High quality headphone for music lover',
     },
     {
-      _id: 6,
+      //_id: 6,
       name: 'BOAT Headphone',
       slug: 'boat-headphone',
       category: 'Headphone',
@@ -79,7 +79,7 @@ const data = {
       description: 'High quality headphone for music lover',
     },
     {
-      _id: 7,
+      //_id: 7,
       name: 'Zebronics Speaker',
       slug: 'zebronics-speaker',
       category: 'Speaker',
@@ -92,7 +92,7 @@ const data = {
       description: 'Zebronics Speaker with 100db sound',
     },
     {
-      _id: 8,
+      //_id: 8,
       name: 'Mac Book Laptop',
       slug: 'mac-book-laptop',
       category: 'Mac',
@@ -105,7 +105,7 @@ const data = {
       description: 'Solid and High performance Laptop',
     },
     {
-      _id: 9,
+      //_id: 9,
       name: 'Samsung NoteBook Laptop',
       slug: 'samsung-notebook-laptop',
       category: 'Laptop',
@@ -118,7 +118,7 @@ const data = {
       description: 'Multitasking Laptop for rapid growth',
     },
     {
-      _id: 10,
+      //_id: 10,
       name: 'Iphone Pink Mobile',
       slug: 'iphone-pink-mobile',
       category: 'Mobile',
@@ -131,7 +131,7 @@ const data = {
       description: 'Pink Iphone for high resolution camera and battery backup',
     },
     {
-      _id: 11,
+      //_id: 11,
       name: 'Iphone Blue Mobile',
       slug: 'iphone-blue-mobile',
       category: 'Mobile',
@@ -144,7 +144,7 @@ const data = {
       description: 'Blue Iphone for high resolution camera and battery backup',
     },
     {
-      _id: 12,
+      //_id: 12,
       name: 'Iphone Green Mobile',
       slug: 'iphone-green-mobile',
       category: 'Mobile',
@@ -157,7 +157,7 @@ const data = {
       description: 'Green Iphone for high resolution camera and battery backup',
     },
     {
-      _id: 13,
+      //_id: 13,
       name: 'Galaxy Ultra Mobile',
       slug: 'galaxy-ultra-mobile',
       category: 'Mobile',
@@ -170,7 +170,7 @@ const data = {
       description: 'Galaxy Ultra phone with touch pencile',
     },
     {
-      _id: 14,
+      //_id: 14,
       name: 'JBL Earbuds',
       slug: 'jbl-earbuds',
       category: 'Earbuds',
@@ -183,7 +183,7 @@ const data = {
       description: 'JBL Earbud with high quality noise cancellation',
     },
     {
-      _id: 15,
+      //_id: 15,
       name: 'Amazon Basic Earbuds',
       slug: 'amazon-basic-earbuds',
       category: 'Earbuds',
@@ -196,7 +196,7 @@ const data = {
       description: 'Amazon Basic Earbuds are for basic use earbuds',
     },
     {
-      _id: 16,
+      //_id: 16,
       name: 'JBL Speaker',
       slug: 'jbl-speaker',
       category: 'Speaker',
@@ -209,7 +209,7 @@ const data = {
       description: 'JBL Speaker with 50db sound',
     },
     {
-      _id: 17,
+      //_id: 17,
       name: 'Tribit Speaker',
       slug: 'tribit-speaker',
       category: 'Speaker',
