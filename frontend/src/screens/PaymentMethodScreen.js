@@ -14,7 +14,7 @@ export default function PaymentMethodScreen() {
   } = state;
 
   const [paymentMethodName, setPaymentMethod] = useState(
-    paymentMethod || 'GooglePay'
+    paymentMethod || 'UPI'
   );
 
   useEffect(() => {
